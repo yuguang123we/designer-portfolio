@@ -1,0 +1,11 @@
+node_modules/
+.netlify/
+netlify-publish/
+*.log
+*.tmp
+Thumbs.db
+
+# Unused source exports kept locally only.
+videos/
+*.mp4
+frame_034.png
